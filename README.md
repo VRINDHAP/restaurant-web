@@ -19,7 +19,7 @@ This is my very first website project — a **responsive restaurant website** bu
 
 ## 📸 Preview
 
-![Demo](https://youtu.be/L6Sz6Kh_oig?si=zbsmYIBOflS2NIzD)  
+[![Watch the demo](https://img.youtube.com/vi/L6Sz6Kh_oig/0.jpg)](https://youtu.be/L6Sz6Kh_oig?si=zbsmYIBOf1S2N1zD) 
 
 
 ---
